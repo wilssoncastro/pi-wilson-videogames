@@ -18,13 +18,13 @@
 
 La idea general fue crear una aplicación en la cual se puedan ver distintas razas de perro junto con información relevante de las mismas utilizando la api externa [the dog api](https://thedogapi.com/) y a partir de ella poder, entre otras cosas:
 
-  - Buscar perros
+  - Buscar juegos
   - Filtrarlos / Ordenarlos
-  - Agregar nuevos perros
+  - Agregar nuevos juegos
 
 ## ¿Quieres probar mi proyecto?
 
- 1. Clonar el repositorio en sus computadoras, puedes hacerlo utilizando el comando `git clone https://github.com/JulianG1808/PI-Dogs-GomezJulian.git` en <strong>'git bash'</strong>
+ 1. Clonar el repositorio en sus computadoras, puedes hacerlo utilizando el comando `git clone https://github.com/wilssoncastro/pi-wilson-videogames.git` en <strong>'git bash'</strong>
  2. En la carpeta `api` crear un archivo llamado: `.env` que tenga la siguiente forma:
     ```
     DB_USER=usuariodepostgres
@@ -53,10 +53,10 @@ La idea general fue crear una aplicación en la cual se puedan ver distintas raz
 ## Imagenes del proyecto
 
 Landing Page
-<img src ="https://cdn.discordapp.com/attachments/757093607768326145/999022412295311470/unknown.png?width=904&height=469"/>
+<img src ="https://media.discordapp.net/attachments/969781799876177925/999029271878193274/Landing_page.JPG?width=890&height=473"/>
 
 Home
-<img src ="https://cdn.discordapp.com/attachments/757093607768326145/999022513164124315/unknown.png?width=904&height=469"/>
+<img src ="https://media.discordapp.net/attachments/969781799876177925/999029288949006489/Home.JPG?width=1016&height=473"/>
 
-Crear raza
-<img src ="https://cdn.discordapp.com/attachments/757093607768326145/999022610224517200/unknown.png?width=904&height=469"/>
+Videogame Detail
+<img src ="https://media.discordapp.net/attachments/969781799876177925/999029307651407983/Detail.JPG?width=918&height=473"/>
